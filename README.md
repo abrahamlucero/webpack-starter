@@ -9,5 +9,5 @@ npm intall
 ```
 Y para contruir el build, recuerden:
 ```
-npm run buidl
+npm run build
 ```
